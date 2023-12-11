@@ -1,3 +1,14 @@
+
+Task Description
+5. State Transition
+This is an exercise from the ISTQB textbook "Fundamentals of Software Testing ISTQB Certification."
+
+Scenario: A website shopping basket starts out as empty. As purchases are selected, they are added to the shopping basket. Items can also be removed from the shopping basket. When the customer decides to check out, a summary of the items and the total cost is shown to him to say whether it is OK. If the contents and price are OK, the customer leaves the summary display and goes to the payment system. Otherwise, they go back to shopping (so you can remove items if you want).
+
+a. Produce a state diagram showing the different states and transitions. Define a test in terms of the sequence of states to cover all transitions.
+
+b. Produce a state table. Give an example test for an invalid transition.
+
 # Test Cases
 
 ## 1. Adding and Removing Items
