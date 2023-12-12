@@ -8,7 +8,7 @@ Scenario: A website shopping basket starts out as empty. As purchases are select
 ## a. Produce a state diagram showing the different states and transitions. Define a test in terms of the sequence of states to cover all transitions.
 ![Screenshot 2023-12-12 141106](https://github.com/martingit22/State-Transition/assets/148612731/93527307-1ce3-45d7-b49c-36a68c01f03d)
 ## b. Produce a state table. Give an example test for an invalid transition.
-I have made a new repository for all my repositories and including a link here - StateTableTask5.sql
+I have made a new repository for all my repositories and including a link here - [StateTableTask5.sql](https://github.com/martingit22/State-Transition/blob/aaf0e7a98c4f54b357aa21ab99ef5dc89f06f2aa/statetable.sql)
 # Test in terms of the sequence of states to cover all transitions:
 
 1. Start in the "Empty Basket" state.
